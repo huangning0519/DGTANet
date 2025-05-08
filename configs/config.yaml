@@ -1,0 +1,10 @@
+data_dir: './data/'
+batch_size: 32
+input_dim: 7
+output_dim: 1
+num_nodes: 500
+time_steps: 12
+horizon: 6
+learning_rate: 0.001
+weight_decay: 1e-4
+epochs: 100
